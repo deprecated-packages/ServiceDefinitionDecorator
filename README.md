@@ -1,4 +1,8 @@
-# Service Definition Decorator
+# Service Definition Decorator - Deprecated, in core of Symfony 3.3+
+
+- https://symfony.com/blog/new-in-symfony-3-3-simpler-service-configuration#interface-based-service-configuration
+
+---
 
 [![Build Status](https://img.shields.io/travis/Symplify/ServiceDefinitionDecorator/master.svg?style=flat-square)](https://travis-ci.org/Symplify/ServiceDefinitionDecorator)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/Symplify/ServiceDefinitionDecorator.svg?style=flat-square)](https://scrutinizer-ci.com/g/Symplify/ServiceDefinitionDecorator)
